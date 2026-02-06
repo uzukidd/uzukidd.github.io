@@ -4,14 +4,14 @@ title: "Luo CHENG"
 
 # About Me {#about-me}
 
-I am Luo CHENG (程络 [ʈʂʰəŋ˧˥ lwɔ˥˩]), a master’s student at the Institute of Software, Chinese Academy of Sciences (ISCAS) and the University of Chinese Academy of Sciences (UCAS). I am fortunate to be advised by Prof. Lijun ZHANG within the Key Laboratory of System Software (<a href='https://iscasmc.ios.ac.cn/?page_id=148'>TIS group</a>).
+My name is Luo CHENG (程络 [ʈʂʰəŋ˧˥ lwɔ˥˩]), a master’s student in <a href='http://www.is.cas.cn/'>Institute of Software, Chinese Academy of Sciences (ISCAS)</a>  and <a href='https://www.ucas.edu.cn/'>University of Chinese Academy of Sciences (UCAS)</a>. I am fortunate to be advised by Prof. Lijun ZHANG within the Key Laboratory of System Software (<a href='https://iscasmc.ios.ac.cn/?page_id=148'>TIS group</a>).
 
-Previously, I received my B.Eng. degree from the School of Computer Science, Guangdong University of Technology (GDUT). During my undergraduate years, I focused on machine learning and differential privacy at  <a href='https://qgailab.com/#/'>QG Studio</a>, supervised by Prof. Guangqiang XIE and Prof. Yang LI.
+Previously, I received my B.Eng. degree from <a href='https://cs.gdut.edu.cn/'>the School of Computer Science and Technology, Guangdong University of Technology (GDUT)</a>. During my undergraduate years, I focused on Machine Learning and Differential Privacy at  <a href='https://qgailab.com/#/'>QG Studio</a>, supervised by Prof. Guangqiang XIE and Prof. Yang LI.
 
-My research interest includes Automatic Driving and AI alignment.
+My research interest includes Automatic Driving, Adversarial Samples and AI alignment.
 
 # 🔥 News {#news}
-- *2025.10*: &nbsp;🎉🎉 One paper titled <span style="background: linear-gradient(to right, #f12711, #f5af19); color: white; padding: 1px 8px; border-radius: 12px; font-size: 0.85em; font-weight: bold;">Oral Presentation</span>"**SL-CBM: Enhancing Concept Bottleneck Models with Semantic Locality for Better Interpretabilit**" has been accepted by **AAAI 2026**! See you in Singapore! 🇸🇬
+- *2025.10*: &nbsp;🎉🎉 One paper titled <span style="background: linear-gradient(to right, #f12711, #f5af19); color: white; padding: 1px 8px; border-radius: 12px; font-size: 0.85em; font-weight: bold;">Oral Presentation</span>"**SL-CBM: Enhancing Concept Bottleneck Models with Semantic Locality for Better Interpretabilit**" has been accepted by **AAAI 2026**! See you in Singapore!
 
 # 📝 Publications {#publications}
 
@@ -30,14 +30,6 @@ My research interest includes Automatic Driving and AI alignment.
   Hanwei Zhang, **Luo Cheng**, Qisong He, Wei Huang, Renjue Li, Ronan Sicre, Xiaowei Huang, Holger Hermanns, Lijun Zhang\*
   in Theory and Practice of Settable Software (SETTA'24), 2024. <br>
   <span style="background-color: #95a5a6; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">CCF C</span></a><a href="https://github.com/uzukidd/eidos" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uzukidd/eidos?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
-
-
-  <!-- <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
-
-<!-- - ***[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)*** <br>
-  Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
-  in Conference on Neural Information Processing Systems (**Neurips**), 2023. <br>
-  <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a> --> 
 
 # 🎖 Honors and Awards {#honors-and-awards}
 - **Grand Prize**, 3rd National College Green Computing Innovation Contest (Task Challenge) <span style="float:right;">2020</span>

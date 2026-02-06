@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Luo CHENG"
-      description = "Master Student at the Institute of Software, Chinese Academy of Sciences (ISCAS) and the University of Chinese Academy of Sciences (UCAS). Focusing on Automatic Driving and AI alignment
+      description = "Master Student at the Institute of Software, Chinese Academy of Sciences (ISCAS) and the University of Chinese Academy of Sciences (UCAS). Focusing on Automatic Driving and AI alignment"
       motto = "*Radio Silence*"
     
     [[languages.en.menu.main]]
@@ -60,7 +60,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = '学术主页'
     
     [languages.zh.params]
-      author = ""
+      author = "王小明"
       description = "某某大学博士生，专注于计算机视觉与深度学习"
       motto = "世界上大部分事，都没有太大意义。真理与爱除外。"
     

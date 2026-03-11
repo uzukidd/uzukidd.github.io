@@ -23,7 +23,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     [languages.en.params]
       author = "Luo CHENG"
       description = "Master Student in ISCAS and CAS. Focusing on Automatic Driving and AI alignment."
-      motto = "*Radio Silence*"
+      motto = "Let justice be done though the heavens fall."
     
     [[languages.en.menu.main]]
       name = 'About Me'

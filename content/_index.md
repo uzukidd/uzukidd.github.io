@@ -29,8 +29,15 @@ Contact me: chengluo##ios.ac.cn (replace ## to @)
 
 - ***[Eidos: Efficient, Imperceptible Adversarial 3D Point Clouds](https://dl.acm.org/doi/10.1007/978-981-96-0602-3_17)*** <br>
   Hanwei Zhang, **Luo Cheng**, Qisong He, Wei Huang, Renjue Li, Ronan Sicre, Xiaowei Huang, Holger Hermanns, Lijun Zhang\*
-  in Theory and Practice of Settable Software (SETTA'24), 2024. <br>
+  in Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA'24), 2024. <br>
   <span style="background-color: #95a5a6; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">CCF C</span></a><a href="https://github.com/uzukidd/eidos" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uzukidd/eidos?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
+
+# 🛠️ Working Papers{#Working-Papers}
+- ***[Revisiting Physically Realizable Adversarial Object Attack against LiDAR-based Detection: Clarifying Problem Formulation and Experimental Protocols](https://arxiv.org/abs/2507.18457)*** <br>
+  **Luo Cheng**, Hanwei Zhang, Lijun Zhang, Holger Hermanns\*
+  in arXiv preprint , 2025. <br>
+  <span style="background-color: #b31b1b; color: white; padding: 1px 5px; border-radius: 3px; font-family: sans-serif; font-weight: bold;">arXiv</span> 2507.18457 [cs.CV]</a><a href="https://github.com/uzukidd/adv-carla" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uzukidd/adv-carla?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
+<a href="https://github.com/uzukidd/ad-python-playground" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uzukidd/ad-python-playground?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
 
 # 🎖 Honors and Awards {#honors-and-awards}
 - **Grand Prize**, 3rd National College Green Computing Innovation Contest (Task Challenge) <span style="float:right;">2020</span>

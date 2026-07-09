@@ -12,7 +12,7 @@ My research interest includes Automatic Driving, Adversarial Samples and AI alig
 Contact me: chengluo##ios.ac.cn (replace ## to @)
 
 # 🔥 News {#news}
-- *2025.10*: &nbsp;🎉🎉 One paper titled <span style="background: linear-gradient(to right, #f12711, #f5af19); color: white; padding: 1px 8px; border-radius: 12px; font-size: 0.85em; font-weight: bold;">Oral Presentation</span>"**SL-CBM: Enhancing Concept Bottleneck Models with Semantic Locality for Better Interpretabilit**" has been accepted by **AAAI 2026**! See you in Singapore!
+- *2025.10*: &nbsp;🎉🎉 One paper titled <span style="background: linear-gradient(to right, #f12711, #f5af19); color: white; padding: 1px 8px; border-radius: 12px; font-size: 0.85em; font-weight: bold;">Oral Presentation</span>"**SL-CBM: Enhancing Concept Bottleneck Models with Semantic Locality for Better Interpretability**" has been accepted by **AAAI 2026**! See you in Singapore!
 
 # 📝 Publications {#publications}
 
@@ -32,7 +32,7 @@ Contact me: chengluo##ios.ac.cn (replace ## to @)
   in Symposium on Dependable Software Engineering Theories, Tools and Applications (SETTA'24), 2024. <br>
   <span style="background-color: #95a5a6; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">CCF C</span></a><a href="https://github.com/uzukidd/eidos" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uzukidd/eidos?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
 
-# 🛠️ Working Papers{#Working-Papers}
+# 🛠️ Working Papers{#working-papers}
 - ***[Revisiting Physically Realizable Adversarial Object Attack against LiDAR-based Detection: Clarifying Problem Formulation and Experimental Protocols](https://arxiv.org/abs/2507.18457)*** <br>
   **Luo Cheng**, Hanwei Zhang, Lijun Zhang, Holger Hermanns\*
   in arXiv preprint , 2025. <br>
@@ -45,9 +45,9 @@ Contact me: chengluo##ios.ac.cn (replace ## to @)
 - **First Prize (Guangdong Division)**, CUMCM <span style="float:right;">2020</span>
 - **Honorable Mention**, MCM/ICM <span style="float:right;">2021</span>
 # 📖 Educations {#educations}
-**University of Chinese Academy of Sciences (UCAS)** <span style="float:right;">*2023.09 – 2026.07 (Expected)*</span>
+**University of Chinese Academy of Sciences (UCAS)** <span style="float:right;">*2023.09 – 2026.06*</span>
 
-*Institute of Software, CAS (ISCAS), State Key Laboratory of Computer Science* <span style="float:right;">*M.E. in Computer Science (081200)*</span>
+*Institute of Software, CAS (ISCAS), State Key Laboratory of Computer Science* <span style="float:right;">*M.S.E. in Computer Science and Technology (081200)*</span>
 - **GPA**: 3.77 / 4.00
 
 **Guangdong University of Technology (GDUT)** <span style="float:right;">*2019.09 – 2023.06*</span>

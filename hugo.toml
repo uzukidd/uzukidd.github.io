@@ -18,11 +18,11 @@ disableKinds = ["taxonomy", "term", "RSS"]
   [languages.en]
     languageName = 'English'
     weight = 1
-    title = 'Zero'
+    title = 'Luo CHENG'
 
     [languages.en.params]
       author = "Luo CHENG"
-      description = "Master Student in ISCAS and CAS. Focusing on Automatic Driving and AI alignment."
+      description = "a BEV Perception Engineer at 1024 Robotics, working with Asst. Prof. Zhijian HE."
       motto = "Let justice be done though the heavens fall."
     
     [[languages.en.menu.main]]
@@ -45,6 +45,10 @@ disableKinds = ["taxonomy", "term", "RSS"]
       name = 'Educations'
       url = '#educations'
       weight = 5
+    [[languages.en.menu.main]]
+      name = 'Careers'
+      url = '#careers'
+      weight = 6
 
 [params]
   profilePicture = "images/profile.jpg"

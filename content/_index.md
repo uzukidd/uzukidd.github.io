@@ -12,11 +12,11 @@ I received my **M.S. degree** from the <a href='http://www.is.cas.cn/'>Institute
 
 Previously, I received my B.Eng. degree from <a href='https://cs.gdut.edu.cn/'>the School of Computer Science and Technology, Guangdong University of Technology (GDUT)</a>. During my undergraduate years, I focused on Machine Learning and Differential Privacy at  <a href='https://qgailab.com/#/'>QG Studio</a>, supervised by Prof. Guangqiang XIE and Prof. Yang LI.
 
-My research interest includes Automatic Driving, Adversarial Samples and AI alignment. 
+My research interest includes Autonomous Driving, VLA/VLM/LLM, Adversarial Samples and AI alignment. 
 Contact me: uzukidd##gmail.com (replace ## to @)
 
 # 🔥 News {#news}
-- *2026.09*:  &nbsp;🤖💼I joined **1024 Robotics** as a **BEV Perception Engineer**, under the supervision of Asst. Prof. Zhijian HE!
+- *2026.09*: &nbsp;🤖💼I joined **1024 Robotics** as a **BEV Perception Engineer**, under the supervision of Asst. Prof. Zhijian HE!
 - *2026.06*: &nbsp;🎓✨ I graduated from **UCAS** and received my **M.S.E. degree in Computer Science and Technology**.
 - *2025.10*: &nbsp;🎉🎉 One paper titled <span style="background: linear-gradient(to right, #f12711, #f5af19); color: white; padding: 1px 8px; border-radius: 12px; font-size: 0.85em; font-weight: bold;">Oral Presentation</span>"**SL-CBM: Enhancing Concept Bottleneck Models with Semantic Locality for Better Interpretability**" has been accepted by **AAAI 2026**! See you in Singapore!
 

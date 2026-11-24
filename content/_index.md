@@ -4,7 +4,7 @@ title: "Luo CHENG"
 
 # About Me {#about-me}
 
-My name is Luo CHENG (程络 [ʈʂʰəŋ˧˥ lwɔ˥˩]). I am currently a **BEV Perception Engineer** at  <a href='https://www.1024robotics.com/'>**1024 Robotics**</a>, working with Asst. Prof. Zhijian HE.
+My name is Luo CHENG (程络 [ʈʂʰəŋ˧˥ lwɔ˥˩]). I am currently a **BEV Perception Engineer** at  <a href='https://www.1024robotics.com/'>**1024 Robotics**</a> (**Tayee.ai**), working with Asst. Prof. Zhijian HE.
 
 I am also **seeking a PhD position** in robotics and 3D perception starting in 2027, feel free to reach out if you are interested in my research background.
 
@@ -16,8 +16,14 @@ My research interest includes Autonomous Driving, VLA/VLM/LLM, Adversarial Sampl
 Contact me: uzukidd##gmail.com (replace ## to @)
 
 # 🔥 News {#news}
-- *2026.09*: &nbsp;🤖💼I joined **1024 Robotics** as a **BEV Perception Engineer**, under the supervision of Asst. Prof. Zhijian HE!
+- *2026.11*: 🐎🎉 Our in-house **autonomous street sweepers** made its debut at **APEC 2026 in Shenzhen** and was featured on **China Central Television (CCTV)**, China’s largest state broadcaster!
+
+  <img src="../assets/images/sweeper_1.png" style="zoom:50%;" /><img src="../assets/images/sweeper_2.png" style="zoom:50%;" />
+
+- *2026.09*: &nbsp;🤖💼I joined **1024 Robotics** (**Tayee.ai**) as a **BEV Perception Engineer**, under the supervision of Asst. Prof. Zhijian HE!
+
 - *2026.06*: &nbsp;🎓✨ I graduated from **UCAS** and received my **M.S.E. degree in Computer Science and Technology**.
+
 - *2025.10*: &nbsp;🎉🎉 One paper titled <span style="background: linear-gradient(to right, #f12711, #f5af19); color: white; padding: 1px 8px; border-radius: 12px; font-size: 0.85em; font-weight: bold;">Oral Presentation</span>"**SL-CBM: Enhancing Concept Bottleneck Models with Semantic Locality for Better Interpretability**" has been accepted by **AAAI 2026**! See you in Singapore!
 
 # 📝 Publications {#publications}
@@ -39,11 +45,11 @@ Contact me: uzukidd##gmail.com (replace ## to @)
   <span style="background-color: #95a5a6; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">CCF C</span></a><a href="https://github.com/uzukidd/eidos" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/uzukidd/eidos?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
   
 # 👜 Careers {#careers}
-<img src="https://www.1024robotics.com/assets/logo-DdL9yBbb.png" style="height: 1.2em; vertical-align: -0.15em;" /> **1024 Robotics** <span style="float:right;">*2026.09 – Now*</span>
+<img src="https://www.1024robotics.com/assets/logo-DdL9yBbb.png" style="height: 1.2em; vertical-align: -0.15em;" /> **Tayee.ai**, **1024 Robotics** <span style="float:right;">*2026.09 – Now*</span>
 
 BEV Perception Engineer
 
-- Perception on Autonomous Sanitation Robots.
+- Perception on **autonomous street sweepers**.
 - VLA-supervised autonomous driving.
 
 # 📖 Educations {#educations}

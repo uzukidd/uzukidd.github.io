@@ -18,7 +18,7 @@ Contact me: uzukidd##gmail.com (replace ## to @)
 # 🔥 News {#news}
 - *2026.11*: 🐎🎉 Our in-house **autonomous street sweepers** made its debut at **APEC 2026 in Shenzhen** and was featured on **China Central Television (CCTV)**, China’s largest state broadcaster!
 
-  <img src="../assets/images/sweeper_1.png" style="zoom:50%;" /><img src="../assets/images/sweeper_2.png" style="zoom:50%;" />
+  <img src="./images/sweeper_1.png" style="zoom:50%;" /><img src="./images/sweeper_2.png" style="zoom:50%;" />
 
 - *2026.09*: &nbsp;🤖💼I joined **1024 Robotics** (**Tayee.ai**) as a **BEV Perception Engineer**, under the supervision of Asst. Prof. Zhijian HE!
 
